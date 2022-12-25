@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '/core/color_utils.dart';
+import '../../core/config/color_utils.dart';
 
 class CartItemWidget extends StatefulWidget {
   final String plantName, photoAssetLink, plantUniqueQuality, plantPrice;

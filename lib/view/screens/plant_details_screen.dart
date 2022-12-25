@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '/core/color_utils.dart';
+import '../../core/config/color_utils.dart';
 import 'order_placement_confirmation_screen.dart';
 
 class PlantDetailsScreen extends StatefulWidget {

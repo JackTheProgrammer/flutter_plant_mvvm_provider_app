@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:plant_app_mvvm/core/color_utils.dart';
-import 'package:plant_app_mvvm/core/hint_style_utils.dart';
+import 'package:plant_app_mvvm/core/config/color_utils.dart';
+import 'package:plant_app_mvvm/core/config/hint_style_utils.dart';
 import 'package:plant_app_mvvm/view/screens/home_screen.dart';
 import '/view/screens/sign_up.dart';
 

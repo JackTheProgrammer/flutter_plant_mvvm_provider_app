@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart' show Consumer;
 
-import '/core/color_utils.dart';
-import '/view_model/cart_view_model.dart';
+import '../../core/config/color_utils.dart';
+import '../view_model/cart_view_model.dart';
 import '/view/screens/purchase_confirmation_screen.dart';
 import '/view/widgets/cart_item_widget.dart';
 

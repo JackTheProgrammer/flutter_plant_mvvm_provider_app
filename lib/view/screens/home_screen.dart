@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:plant_app_mvvm/view/screens/cart_screen.dart';
 
 import '/view/screens/plant_details_screen.dart';
-import '/core/color_utils.dart';
-import '/core/hint_style_utils.dart';
+import '../../core/config/color_utils.dart';
+import '../../core/config/hint_style_utils.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

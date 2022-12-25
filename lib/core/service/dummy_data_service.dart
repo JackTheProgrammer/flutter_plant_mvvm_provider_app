@@ -1,4 +1,4 @@
-import '/model/cart_item.dart';
+import '../model/cart_item.dart';
 
 List<CartItem> dummyCartItems = [
   CartItem(

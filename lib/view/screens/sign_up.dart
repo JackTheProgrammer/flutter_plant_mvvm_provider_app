@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:plant_app_mvvm/core/hint_style_utils.dart';
+import 'package:plant_app_mvvm/core/config/hint_style_utils.dart';
 
 import '/view/screens/login_screen.dart';
-import '/core/color_utils.dart';
+import '../../core/config/color_utils.dart';
 import 'home_screen.dart';
 
 class SignUp extends StatelessWidget {
